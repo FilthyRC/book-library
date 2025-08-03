@@ -1,0 +1,7 @@
+.tile-container {
+  font-size: calc(25px + 0.5vw);
+  border: 1px black solid;
+  max-width: 250px;
+  border-radius: 50px;
+  padding: 10px;
+}
